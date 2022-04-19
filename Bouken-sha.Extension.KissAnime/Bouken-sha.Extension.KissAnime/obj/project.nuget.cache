@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FCX4MbOVOYH5OwtVEj0lG3FZjfaF4F2+Cx08VV9fMM/WkfM1CnpLph/GSUJxO4WAM6AGZ15K6JBrLvkR6GK7JQ==",
+  "success": true,
+  "projectFilePath": "D:\\Phantom Thief\\Development\\Bouken-sha.Extension\\Bouken-sha.Extension.KissAnime\\Bouken-sha.Extension.KissAnime\\Bouken-sha.Extension.KissAnime.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Formulatrix\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
